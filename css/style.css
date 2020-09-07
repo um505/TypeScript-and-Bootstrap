@@ -1,0 +1,42 @@
+.container-fluid{
+    background-color: #F1EFEE;
+   
+  }
+  .navbar-text{
+    font-size: 2em;
+    font-family: 'Alfa Slab One', cursive;
+  }
+  .navbar{
+    background-color: #F1EFEE;
+    color: gray;
+    
+  }
+  .carousel-inner img{
+    height: 35em;
+  }
+  .row img{
+    height: 30vw;
+    width: 30vw;
+  }
+  .bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+  }
+
+  .img-cart img{
+    width: 100%;
+    height: 85%;
+  }
+
+  .img-cart-2 img{
+    width: 90%;
+    height: 80%;
+  }
+  .img-cart-3 img{
+    width: 90%;
+    height: 70%;
+  }
+footer{
+  font-size: 2em;
+ }
